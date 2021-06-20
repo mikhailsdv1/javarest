@@ -1,9 +1,9 @@
-package com.javarest.SeekerApi;
+package com.javarest.JavaRest;
 
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SeekerApiApplicationTests {
+class JavaRestApplicationTests {
 
 	//@Test
 	void contextLoads() {
