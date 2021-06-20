@@ -1,0 +1,88 @@
+{
+  "title":"",
+  "title-std":"",
+  "seniority-level":"",
+  "mgmt-level":"",
+  "specializations":[
+
+  ],
+  "department":"",
+  "summary":"",
+  "leadership":"",
+  "locations":[
+
+  ],
+  "culture":[
+
+  ],
+  "responsibilities":[
+
+  ],
+  "requirements":{
+    "min-general-experience":"",
+    "min-management-experience":"",
+    "education":{
+      "min-degree":""
+    },
+    "languages":[
+
+    ],
+    "skills":[
+
+    ],
+    "certifications":[
+
+    ]
+  },
+  "preferences":{
+    "min-general-experience":"",
+    "min-management-experience":"",
+    "education":{
+      "min-degree":""
+    },
+    "languages":[
+
+    ],
+    "skills":[
+
+    ],
+    "certifications":[
+
+    ]
+  },
+  "remote":{
+    "pct":"",
+    "requires-timezones":[
+
+    ]
+  },
+  "employment":{
+    "type":[
+
+    ],
+    "commitment":"",
+    "on-call":"",
+    "flexible":"",
+    "overtime":"",
+    "days":[
+
+    ],
+    "hours":""
+  },
+  "compensation":{
+    "min-pay":"",
+    "max-pay":"",
+    "currency":"",
+    "commission":"",
+    "bonus":"",
+    "signing-bonus":"",
+    "equity":"",
+    "retention":"",
+    "referral":"",
+    "holiday":"",
+    "profit-sharing":""
+  },
+  "interview":[
+
+  ]
+}

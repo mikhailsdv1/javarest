@@ -1,0 +1,19 @@
+server:
+  port: 8090
+
+logging:
+  level:
+      org:
+        springframework:
+          security:
+            oauth2: DEBUG
+      root: INFO
+      com.valuedhire: DEBUG
+  file:
+    name: /tmp/javarest.log
+
+spring:
+  cache:
+    cache-names: keycache
+    caffeine:
+      spec: maximumSize=500, expireAfterAccess=120s
